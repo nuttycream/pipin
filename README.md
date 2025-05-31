@@ -9,6 +9,9 @@
     <img src="https://i.imgur.com/aZgyDpJ.png">
 </p>
 
+> [!IMPORTANT]  
+> Project is currently going under a major rewrite/refactor/restructure. Read more [here](https://github.com/nuttycream/pipin/issues/4).
+
 ## Features
 
 - Toggle individual GPIO Pins (0-27)
