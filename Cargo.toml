@@ -5,6 +5,7 @@ edition = "2021"
 
 [dependencies]
 bpaf = { version = "0.9.20", default-features = false, features = ["autocomplete", "derive"] }
+color-eyre = { version = "0.6.5", default-features = false }
 gpio-cdev = { version = "0.6.0", default-features = false }
 ratatui = { version = "0.29.0", default-features = false, features = ["crossterm"] }
 serde = { version = "1.0.219", features = ["derive"] }
